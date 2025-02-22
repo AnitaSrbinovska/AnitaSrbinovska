@@ -7,8 +7,6 @@
 ### 🌟 About Me
 - 🔍 Exploring AI for social good and justice
 - 📖 Love reading about cognitive science, philosophy, and AI
-- 🎤 TEDxRIT Speaker
-- 🏡 Interested in affordable housing solutions
 
 ### 📫 Connect With Me
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anita-srbinovska-a24836249/]
