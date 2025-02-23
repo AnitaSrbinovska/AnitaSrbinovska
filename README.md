@@ -14,7 +14,9 @@
 ### 📫 Connect With Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anita-srbinovska-a24836249/)
 
-## 🚀 Languages & Tools  
+*Advancing AI to bridge human and machine understanding!*
+
+### 🚀 Languages & Tools  
 
 ### 🖥️ Programming Languages  
 <p align="left">
@@ -71,5 +73,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
 </p>
-
-*Advancing AI to bridge human and machine understanding!*
