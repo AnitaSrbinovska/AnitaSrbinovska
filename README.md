@@ -34,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Xml_logo.svg" alt="XML" width="40" height="40"/>
 </p>
 
 ### 📚 Software Frameworks  
@@ -50,7 +49,7 @@
 
 ### 🤖 Deep Learning  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Nltk_logo.png" alt="Natural Language Processing (NLP)" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Nltk_logo.png" alt="NLTK" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
