@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Anita Srbinovska
 
-🎓 RIT CS + AI  </br>
+🎓 RIT Computer Science </br>
 💻 Machine Learning & NLP Researcher </br>
 🔬 Passionate about Symbolic AI, Knowledge Representation, Reasoning & Natural Language Understanding </br>
 📜 Researching how AI can analyze video and audio data to detect patterns, enhance transparency, and support decision-making in complex real-world scenarios
