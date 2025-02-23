@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Arm_logo_2017.png" alt="ARM Assembly" width="40" height="40"/>
 </p>
 
 ### 🌐 Web Development  
@@ -49,7 +48,6 @@
 
 ### 🤖 Deep Learning  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Nltk_logo.png" alt="NLTK" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
