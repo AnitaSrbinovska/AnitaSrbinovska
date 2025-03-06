@@ -7,9 +7,9 @@
 
 ### 🌟 About Me
 - 🔍 AI for Social Good & Justice – Using AI to make sense of the world and drive meaningful impact
-- 📖 Deep Thinker & Bookworm – Fascinated by cognitive science, AI, and the philosophy of the mind
+- 📖 Deep Thinker & Bookworm – Fascinated by cognitive science and the philosophy of the mind
 - 🎨 AI as an Art Form – I build AI that thinks, learns, and makes sense of the world
-- ⚡ Endlessly Curious – Learning never stops. Neither does building cool things
+- ⚡ Endlessly Curious – Learning never stops, neither does building cool things
 
 ### 🔬 Fun (But Also Coding)
 
