@@ -14,8 +14,8 @@
 ### 🔬 Fun (But Also Coding)
 
 - 🕵️‍♀️ **Debugging is basically detective work**, and I refuse to let a bug outsmart me
-- 📝 **I write code, but sometimes I write stories** – and they’re both just creative problem-solving
-- 🤖 **I talk to my AI models like they’re teammates** – and honestly, they might be
+- 📝 **I write code, but sometimes I write stories**, and they’re both just creative problem-solving
+- 🤖 **I talk to my AI models like they’re teammates**, and honestly, they might be
 
 ### 📫 Connect With Me
 If you’re into AI, coding, or just love to geek out over cool tech stuff, let’s chat!
