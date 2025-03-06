@@ -6,16 +6,16 @@
 📜 Building AI that can analyze video & audio data to uncover patterns, enhance transparency, and support decision-making in complex real-world scenarios
 
 ### 🌟 About Me
-- 🔍 AI for Social Good & Justice – Using AI to make sense of the world and drive meaningful impact
-- 📖 Deep Thinker & Bookworm – Fascinated by cognitive science and the philosophy of the mind
-- 🎨 AI as an Art Form – I build AI that thinks, learns, and makes sense of the world
-- ⚡ Endlessly Curious – Learning never stops, neither does building cool things
+- 🔍 **AI for Social Good & Justice** – Using AI to make sense of the world and drive meaningful impact
+- 📖 **Deep Thinker & Bookworm** – Fascinated by cognitive science and the philosophy of the mind
+- 🎨 **AI as an Art Form** – I build AI that thinks, learns, and makes sense of the world
+- ⚡ **Endlessly Curious** – Learning never stops, neither does building cool things
 
 ### 🔬 Fun (But Also Coding)
 
-- 🕵️‍♀️ **Debugging is basically detective work**, and I refuse to let a bug outsmart me
-- 📝 **I write code, but sometimes I write stories**, and they’re both just creative problem-solving
-- 🤖 **I talk to my AI models like they’re teammates**, and honestly, they might be
+- 🕵️‍♀️ Debugging is basically detective work, and I refuse to let a bug outsmart me
+- 📝 I write code, but sometimes I write stories, and they’re both just creative problem-solving
+- 🤖 I talk to my AI models like they’re teammates, and honestly, they might be
 
 ### 📫 Connect With Me
 If you’re into AI, coding, or just love to geek out over cool tech stuff, let’s chat!
