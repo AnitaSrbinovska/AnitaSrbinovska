@@ -11,12 +11,6 @@
 - 🎨 **AI as an Art Form** – I build AI that thinks, learns, and makes sense of the world
 - ⚡ **Endlessly Curious** – Learning never stops, neither does building cool things
 
-### 🔬 Fun (But Also Coding)
-
-- 🕵️‍♀️ Debugging is basically detective work, and I refuse to let a bug outsmart me
-- 📝 I write code, but sometimes I write stories, and they’re both just creative problem-solving
-- 🤖 I talk to my AI models like they’re teammates, and honestly, they might be
-
 ### 📫 Connect With Me
 If you’re into AI, coding, or just love to geek out over cool tech stuff, let’s chat!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anita-srbinovska-a24836249/)
