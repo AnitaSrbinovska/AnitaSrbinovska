@@ -2,8 +2,7 @@
 
 🎓 Computer Science @ Rochester Institute of Technology </br>
 💻 ML/NLP Researcher </br>
-🔬 Passionate about Symbolic AI, Knowledge Representation, Reasoning & Natural Language Understanding </br>
-📜 Building AI that can analyze video & audio data to uncover patterns, enhance transparency, and support decision-making in complex real-world scenarios
+🔬 Passionate about Symbolic AI, Knowledge Representation, Reasoning & Natural Language Understanding
 
 ### 🌟 About Me
 - 🔍 **AI for Social Good & Justice** – Using AI to make sense of the world and drive meaningful impact
